@@ -1,0 +1,181 @@
+\\JOANYANITA-PC\CIOETsketch1\CIOETsketch1\bin\Debug\CIOETsketch1.exe.config
+\\JOANYANITA-PC\CIOETsketch1\CIOETsketch1\obj\Debug\CIOETsketch1.exe
+\\JOANYANITA-PC\CIOETsketch1\CIOETsketch1\obj\Debug\CIOETsketch1.pdb
+\\JOANYANITA-PC\CIOETsketch1\CIOETsketch1\bin\Debug\CIOETsketch1.exe
+\\JOANYANITA-PC\CIOETsketch1\CIOETsketch1\bin\Debug\CIOETsketch1.pdb
+\\JOANYANITA-PC\CIOETsketch1\CIOETsketch1\bin\Debug\System.Windows.Interactivity.dll
+\\JOANYANITA-PC\CIOETsketch1\CIOETsketch1\bin\Debug\MahApps.Metro.xml
+\\JOANYANITA-PC\CIOETsketch1\CIOETsketch1\obj\Debug\CIOETsketch1.csprojResolveAssemblyReference.cache
+\\JOANYANITA-PC\CIOETsketch1\CIOETsketch1\obj\Debug\LogInWindow.baml
+\\JOANYANITA-PC\CIOETsketch1\CIOETsketch1\obj\Debug\MainWindow.baml
+\\JOANYANITA-PC\CIOETsketch1\CIOETsketch1\obj\Debug\App.baml
+\\JOANYANITA-PC\CIOETsketch1\CIOETsketch1\obj\Debug\LogInWindow.g.cs
+\\JOANYANITA-PC\CIOETsketch1\CIOETsketch1\obj\Debug\MainWindow.g.cs
+\\JOANYANITA-PC\CIOETsketch1\CIOETsketch1\obj\Debug\App.g.cs
+\\JOANYANITA-PC\CIOETsketch1\CIOETsketch1\obj\Debug\CIOETsketch1_MarkupCompile.cache
+\\JOANYANITA-PC\CIOETsketch1\CIOETsketch1\obj\Debug\CIOETsketch1.g.resources
+\\JOANYANITA-PC\CIOETsketch1\CIOETsketch1\obj\Debug\CIOETsketch1.Properties.Resources.resources
+\\JOANYANITA-PC\CIOETsketch1\CIOETsketch1\obj\Debug\CIOETsketch1.csproj.GenerateResource.Cache
+\\JOANYANITA-PC\CIOETsketch1\CIOETsketch1\bin\Debug\Microsoft.Expression.Drawing.dll
+\\JOANYANITA-PC\CIOETsketch1\CIOETsketch1\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+\\JOANYANITA-PC\CIOETsketch1\CIOETsketch1\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+\\JOANYANITA-PC\CIOETsketch1\CIOETsketch1\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+\\JOANYANITA-PC\CIOETsketch1\CIOETsketch1\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+\\JOANYANITA-PC\CIOETsketch1\CIOETsketch1\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+\\JOANYANITA-PC\CIOETsketch1\CIOETsketch1\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+\\JOANYANITA-PC\CIOETsketch1\CIOETsketch1\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+\\JOANYANITA-PC\CIOETsketch1\CIOETsketch1\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+\\JOANYANITA-PC\CIOETsketch1\CIOETsketch1\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\JoanYanitA\Documents\Visual Studio 2013\Projects\CIOETsketch1\CIOETsketch1\bin\Debug\CIOETsketch1.exe.config
+C:\Users\JoanYanitA\Documents\Visual Studio 2013\Projects\CIOETsketch1\CIOETsketch1\bin\Debug\CIOETsketch1.exe
+C:\Users\JoanYanitA\Documents\Visual Studio 2013\Projects\CIOETsketch1\CIOETsketch1\bin\Debug\CIOETsketch1.pdb
+C:\Users\JoanYanitA\Documents\Visual Studio 2013\Projects\CIOETsketch1\CIOETsketch1\bin\Debug\MahApps.Metro.dll
+C:\Users\JoanYanitA\Documents\Visual Studio 2013\Projects\CIOETsketch1\CIOETsketch1\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\JoanYanitA\Documents\Visual Studio 2013\Projects\CIOETsketch1\CIOETsketch1\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\JoanYanitA\Documents\Visual Studio 2013\Projects\CIOETsketch1\CIOETsketch1\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\JoanYanitA\Documents\Visual Studio 2013\Projects\CIOETsketch1\CIOETsketch1\bin\Debug\MahApps.Metro.xml
+C:\Users\JoanYanitA\Documents\Visual Studio 2013\Projects\CIOETsketch1\CIOETsketch1\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\JoanYanitA\Documents\Visual Studio 2013\Projects\CIOETsketch1\CIOETsketch1\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\JoanYanitA\Documents\Visual Studio 2013\Projects\CIOETsketch1\CIOETsketch1\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\JoanYanitA\Documents\Visual Studio 2013\Projects\CIOETsketch1\CIOETsketch1\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\JoanYanitA\Documents\Visual Studio 2013\Projects\CIOETsketch1\CIOETsketch1\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\JoanYanitA\Documents\Visual Studio 2013\Projects\CIOETsketch1\CIOETsketch1\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\JoanYanitA\Documents\Visual Studio 2013\Projects\CIOETsketch1\CIOETsketch1\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\JoanYanitA\Documents\Visual Studio 2013\Projects\CIOETsketch1\CIOETsketch1\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\JoanYanitA\Documents\Visual Studio 2013\Projects\CIOETsketch1\CIOETsketch1\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\JoanYanitA\Documents\Visual Studio 2013\Projects\CIOETsketch1\CIOETsketch1\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\JoanYanitA\Documents\Visual Studio 2013\Projects\CIOETsketch1\CIOETsketch1\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\JoanYanitA\Documents\Visual Studio 2013\Projects\CIOETsketch1\CIOETsketch1\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\JoanYanitA\Documents\Visual Studio 2013\Projects\CIOETsketch1\CIOETsketch1\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\JoanYanitA\Documents\Visual Studio 2013\Projects\CIOETsketch1\CIOETsketch1\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\JoanYanitA\Documents\Visual Studio 2013\Projects\CIOETsketch1\CIOETsketch1\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\JoanYanitA\Documents\Visual Studio 2013\Projects\CIOETsketch1\CIOETsketch1\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\JoanYanitA\Documents\Visual Studio 2013\Projects\CIOETsketch1\CIOETsketch1\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\JoanYanitA\Documents\Visual Studio 2013\Projects\CIOETsketch1\CIOETsketch1\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\JoanYanitA\Documents\Visual Studio 2013\Projects\CIOETsketch1\CIOETsketch1\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\JoanYanitA\Documents\Visual Studio 2013\Projects\CIOETsketch1\CIOETsketch1\obj\Debug\LogInWindow.baml
+C:\Users\JoanYanitA\Documents\Visual Studio 2013\Projects\CIOETsketch1\CIOETsketch1\obj\Debug\MainWindow.baml
+C:\Users\JoanYanitA\Documents\Visual Studio 2013\Projects\CIOETsketch1\CIOETsketch1\obj\Debug\App.baml
+C:\Users\JoanYanitA\Documents\Visual Studio 2013\Projects\CIOETsketch1\CIOETsketch1\obj\Debug\LogInWindow.g.cs
+C:\Users\JoanYanitA\Documents\Visual Studio 2013\Projects\CIOETsketch1\CIOETsketch1\obj\Debug\MainWindow.g.cs
+C:\Users\JoanYanitA\Documents\Visual Studio 2013\Projects\CIOETsketch1\CIOETsketch1\obj\Debug\App.g.cs
+C:\Users\JoanYanitA\Documents\Visual Studio 2013\Projects\CIOETsketch1\CIOETsketch1\obj\Debug\CIOETsketch1_MarkupCompile.cache
+C:\Users\JoanYanitA\Documents\Visual Studio 2013\Projects\CIOETsketch1\CIOETsketch1\obj\Debug\CIOETsketch1.g.resources
+C:\Users\JoanYanitA\Documents\Visual Studio 2013\Projects\CIOETsketch1\CIOETsketch1\obj\Debug\CIOETsketch1.Properties.Resources.resources
+C:\Users\JoanYanitA\Documents\Visual Studio 2013\Projects\CIOETsketch1\CIOETsketch1\obj\Debug\CIOETsketch1.csproj.GenerateResource.Cache
+C:\Users\JoanYanitA\Documents\Visual Studio 2013\Projects\CIOETsketch1\CIOETsketch1\obj\Debug\CIOETsketch1.exe
+C:\Users\JoanYanitA\Documents\Visual Studio 2013\Projects\CIOETsketch1\CIOETsketch1\obj\Debug\CIOETsketch1.pdb
+C:\Users\personal\Desktop\CIOETsketch1\CIOETsketch1\bin\Debug\CIOETsketch1.exe.config
+C:\Users\personal\Desktop\CIOETsketch1\CIOETsketch1\obj\Debug\CIOETsketch1.exe
+C:\Users\personal\Desktop\CIOETsketch1\CIOETsketch1\obj\Debug\CIOETsketch1.pdb
+C:\Users\personal\Desktop\CIOETsketch1\CIOETsketch1\bin\Debug\CIOETsketch1.exe
+C:\Users\personal\Desktop\CIOETsketch1\CIOETsketch1\bin\Debug\CIOETsketch1.pdb
+C:\Users\personal\Desktop\CIOETsketch1\CIOETsketch1\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\personal\Desktop\CIOETsketch1\CIOETsketch1\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\personal\Desktop\CIOETsketch1\CIOETsketch1\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\personal\Desktop\CIOETsketch1\CIOETsketch1\bin\Debug\MahApps.Metro.xml
+C:\Users\personal\Desktop\CIOETsketch1\CIOETsketch1\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\personal\Desktop\CIOETsketch1\CIOETsketch1\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\personal\Desktop\CIOETsketch1\CIOETsketch1\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\personal\Desktop\CIOETsketch1\CIOETsketch1\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\personal\Desktop\CIOETsketch1\CIOETsketch1\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\personal\Desktop\CIOETsketch1\CIOETsketch1\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\personal\Desktop\CIOETsketch1\CIOETsketch1\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\personal\Desktop\CIOETsketch1\CIOETsketch1\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\personal\Desktop\CIOETsketch1\CIOETsketch1\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\personal\Desktop\CIOETsketch1\CIOETsketch1\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\personal\Desktop\CIOETsketch1\CIOETsketch1\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\personal\Desktop\CIOETsketch1\CIOETsketch1\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\personal\Desktop\CIOETsketch1\CIOETsketch1\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\personal\Desktop\CIOETsketch1\CIOETsketch1\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\personal\Desktop\CIOETsketch1\CIOETsketch1\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\personal\Desktop\CIOETsketch1\CIOETsketch1\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\personal\Desktop\CIOETsketch1\CIOETsketch1\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\personal\Desktop\CIOETsketch1\CIOETsketch1\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\personal\Desktop\CIOETsketch1\CIOETsketch1\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\personal\Desktop\CIOETsketch1\CIOETsketch1\obj\Debug\CIOETsketch1.csprojResolveAssemblyReference.cache
+C:\Users\personal\Desktop\CIOETsketch1\CIOETsketch1\obj\Debug\LogInWindow.baml
+C:\Users\personal\Desktop\CIOETsketch1\CIOETsketch1\obj\Debug\MainWindow.baml
+C:\Users\personal\Desktop\CIOETsketch1\CIOETsketch1\obj\Debug\App.baml
+C:\Users\personal\Desktop\CIOETsketch1\CIOETsketch1\obj\Debug\LogInWindow.g.cs
+C:\Users\personal\Desktop\CIOETsketch1\CIOETsketch1\obj\Debug\MainWindow.g.cs
+C:\Users\personal\Desktop\CIOETsketch1\CIOETsketch1\obj\Debug\App.g.cs
+C:\Users\personal\Desktop\CIOETsketch1\CIOETsketch1\obj\Debug\CIOETsketch1_MarkupCompile.cache
+C:\Users\personal\Desktop\CIOETsketch1\CIOETsketch1\obj\Debug\CIOETsketch1.g.resources
+C:\Users\personal\Desktop\CIOETsketch1\CIOETsketch1\obj\Debug\CIOETsketch1.Properties.Resources.resources
+C:\Users\personal\Desktop\CIOETsketch1\CIOETsketch1\obj\Debug\CIOETsketch1.csproj.GenerateResource.Cache
+C:\Users\JoanYanitA\Desktop\PROYECTOSDESARROLLo\Software COIET\CIOETsketch1\CIOETsketch1\bin\Debug\CIOETsketch1.exe.config
+C:\Users\JoanYanitA\Desktop\PROYECTOSDESARROLLo\Software COIET\CIOETsketch1\CIOETsketch1\bin\Debug\CIOETsketch1.exe
+C:\Users\JoanYanitA\Desktop\PROYECTOSDESARROLLo\Software COIET\CIOETsketch1\CIOETsketch1\bin\Debug\CIOETsketch1.pdb
+C:\Users\JoanYanitA\Desktop\PROYECTOSDESARROLLo\Software COIET\CIOETsketch1\CIOETsketch1\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\JoanYanitA\Desktop\PROYECTOSDESARROLLo\Software COIET\CIOETsketch1\CIOETsketch1\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\JoanYanitA\Desktop\PROYECTOSDESARROLLo\Software COIET\CIOETsketch1\CIOETsketch1\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\JoanYanitA\Desktop\PROYECTOSDESARROLLo\Software COIET\CIOETsketch1\CIOETsketch1\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\JoanYanitA\Desktop\PROYECTOSDESARROLLo\Software COIET\CIOETsketch1\CIOETsketch1\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\JoanYanitA\Desktop\PROYECTOSDESARROLLo\Software COIET\CIOETsketch1\CIOETsketch1\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\JoanYanitA\Desktop\PROYECTOSDESARROLLo\Software COIET\CIOETsketch1\CIOETsketch1\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\JoanYanitA\Desktop\PROYECTOSDESARROLLo\Software COIET\CIOETsketch1\CIOETsketch1\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\JoanYanitA\Desktop\PROYECTOSDESARROLLo\Software COIET\CIOETsketch1\CIOETsketch1\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\JoanYanitA\Desktop\PROYECTOSDESARROLLo\Software COIET\CIOETsketch1\CIOETsketch1\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\JoanYanitA\Desktop\PROYECTOSDESARROLLo\Software COIET\CIOETsketch1\CIOETsketch1\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\JoanYanitA\Desktop\PROYECTOSDESARROLLo\Software COIET\CIOETsketch1\CIOETsketch1\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\JoanYanitA\Desktop\PROYECTOSDESARROLLo\Software COIET\CIOETsketch1\CIOETsketch1\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\JoanYanitA\Desktop\PROYECTOSDESARROLLo\Software COIET\CIOETsketch1\CIOETsketch1\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\JoanYanitA\Desktop\PROYECTOSDESARROLLo\Software COIET\CIOETsketch1\CIOETsketch1\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\JoanYanitA\Desktop\PROYECTOSDESARROLLo\Software COIET\CIOETsketch1\CIOETsketch1\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\JoanYanitA\Desktop\PROYECTOSDESARROLLo\Software COIET\CIOETsketch1\CIOETsketch1\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\JoanYanitA\Desktop\PROYECTOSDESARROLLo\Software COIET\CIOETsketch1\CIOETsketch1\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\JoanYanitA\Desktop\PROYECTOSDESARROLLo\Software COIET\CIOETsketch1\CIOETsketch1\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\JoanYanitA\Desktop\PROYECTOSDESARROLLo\Software COIET\CIOETsketch1\CIOETsketch1\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\JoanYanitA\Desktop\PROYECTOSDESARROLLo\Software COIET\CIOETsketch1\CIOETsketch1\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\JoanYanitA\Desktop\PROYECTOSDESARROLLo\Software COIET\CIOETsketch1\CIOETsketch1\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\JoanYanitA\Desktop\PROYECTOSDESARROLLo\Software COIET\CIOETsketch1\CIOETsketch1\obj\Debug\LogInWindow.baml
+C:\Users\JoanYanitA\Desktop\PROYECTOSDESARROLLo\Software COIET\CIOETsketch1\CIOETsketch1\obj\Debug\MainWindow.baml
+C:\Users\JoanYanitA\Desktop\PROYECTOSDESARROLLo\Software COIET\CIOETsketch1\CIOETsketch1\obj\Debug\App.baml
+C:\Users\JoanYanitA\Desktop\PROYECTOSDESARROLLo\Software COIET\CIOETsketch1\CIOETsketch1\obj\Debug\LogInWindow.g.cs
+C:\Users\JoanYanitA\Desktop\PROYECTOSDESARROLLo\Software COIET\CIOETsketch1\CIOETsketch1\obj\Debug\MainWindow.g.cs
+C:\Users\JoanYanitA\Desktop\PROYECTOSDESARROLLo\Software COIET\CIOETsketch1\CIOETsketch1\obj\Debug\App.g.cs
+C:\Users\JoanYanitA\Desktop\PROYECTOSDESARROLLo\Software COIET\CIOETsketch1\CIOETsketch1\obj\Debug\CIOETsketch1_MarkupCompile.cache
+C:\Users\JoanYanitA\Desktop\PROYECTOSDESARROLLo\Software COIET\CIOETsketch1\CIOETsketch1\obj\Debug\CIOETsketch1.g.resources
+C:\Users\JoanYanitA\Desktop\PROYECTOSDESARROLLo\Software COIET\CIOETsketch1\CIOETsketch1\obj\Debug\CIOETsketch1.Properties.Resources.resources
+C:\Users\JoanYanitA\Desktop\PROYECTOSDESARROLLo\Software COIET\CIOETsketch1\CIOETsketch1\obj\Debug\CIOETsketch1.csproj.GenerateResource.Cache
+C:\Users\JoanYanitA\Desktop\PROYECTOSDESARROLLo\Software COIET\CIOETsketch1\CIOETsketch1\obj\Debug\CIOETsketch1.exe
+C:\Users\JoanYanitA\Desktop\PROYECTOSDESARROLLo\Software COIET\CIOETsketch1\CIOETsketch1\obj\Debug\CIOETsketch1.pdb
+C:\Users\personal\Desktop\Nueva carpeta\CIOETsketch1\CIOETsketch1\bin\Debug\CIOETsketch1.exe.config
+C:\Users\personal\Desktop\Nueva carpeta\CIOETsketch1\CIOETsketch1\obj\Debug\CIOETsketch1.exe
+C:\Users\personal\Desktop\Nueva carpeta\CIOETsketch1\CIOETsketch1\obj\Debug\CIOETsketch1.pdb
+C:\Users\personal\Desktop\Nueva carpeta\CIOETsketch1\CIOETsketch1\bin\Debug\CIOETsketch1.exe
+C:\Users\personal\Desktop\Nueva carpeta\CIOETsketch1\CIOETsketch1\bin\Debug\CIOETsketch1.pdb
+C:\Users\personal\Desktop\Nueva carpeta\CIOETsketch1\CIOETsketch1\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\personal\Desktop\Nueva carpeta\CIOETsketch1\CIOETsketch1\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\personal\Desktop\Nueva carpeta\CIOETsketch1\CIOETsketch1\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\personal\Desktop\Nueva carpeta\CIOETsketch1\CIOETsketch1\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\personal\Desktop\Nueva carpeta\CIOETsketch1\CIOETsketch1\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\personal\Desktop\Nueva carpeta\CIOETsketch1\CIOETsketch1\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\personal\Desktop\Nueva carpeta\CIOETsketch1\CIOETsketch1\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\personal\Desktop\Nueva carpeta\CIOETsketch1\CIOETsketch1\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\personal\Desktop\Nueva carpeta\CIOETsketch1\CIOETsketch1\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\personal\Desktop\Nueva carpeta\CIOETsketch1\CIOETsketch1\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\personal\Desktop\Nueva carpeta\CIOETsketch1\CIOETsketch1\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\personal\Desktop\Nueva carpeta\CIOETsketch1\CIOETsketch1\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\personal\Desktop\Nueva carpeta\CIOETsketch1\CIOETsketch1\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\personal\Desktop\Nueva carpeta\CIOETsketch1\CIOETsketch1\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\personal\Desktop\Nueva carpeta\CIOETsketch1\CIOETsketch1\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\personal\Desktop\Nueva carpeta\CIOETsketch1\CIOETsketch1\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\personal\Desktop\Nueva carpeta\CIOETsketch1\CIOETsketch1\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\personal\Desktop\Nueva carpeta\CIOETsketch1\CIOETsketch1\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\personal\Desktop\Nueva carpeta\CIOETsketch1\CIOETsketch1\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\personal\Desktop\Nueva carpeta\CIOETsketch1\CIOETsketch1\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\personal\Desktop\Nueva carpeta\CIOETsketch1\CIOETsketch1\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\personal\Desktop\Nueva carpeta\CIOETsketch1\CIOETsketch1\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\personal\Desktop\Nueva carpeta\CIOETsketch1\CIOETsketch1\obj\Debug\CIOETsketch1.csprojResolveAssemblyReference.cache
+C:\Users\personal\Desktop\Nueva carpeta\CIOETsketch1\CIOETsketch1\obj\Debug\LogInWindow.baml
+C:\Users\personal\Desktop\Nueva carpeta\CIOETsketch1\CIOETsketch1\obj\Debug\MainWindow.baml
+C:\Users\personal\Desktop\Nueva carpeta\CIOETsketch1\CIOETsketch1\obj\Debug\App.baml
+C:\Users\personal\Desktop\Nueva carpeta\CIOETsketch1\CIOETsketch1\obj\Debug\LogInWindow.g.cs
+C:\Users\personal\Desktop\Nueva carpeta\CIOETsketch1\CIOETsketch1\obj\Debug\MainWindow.g.cs
+C:\Users\personal\Desktop\Nueva carpeta\CIOETsketch1\CIOETsketch1\obj\Debug\App.g.cs
+C:\Users\personal\Desktop\Nueva carpeta\CIOETsketch1\CIOETsketch1\obj\Debug\CIOETsketch1_MarkupCompile.cache
+C:\Users\personal\Desktop\Nueva carpeta\CIOETsketch1\CIOETsketch1\obj\Debug\CIOETsketch1.g.resources
+C:\Users\personal\Desktop\Nueva carpeta\CIOETsketch1\CIOETsketch1\obj\Debug\CIOETsketch1.Properties.Resources.resources
+C:\Users\personal\Desktop\Nueva carpeta\CIOETsketch1\CIOETsketch1\obj\Debug\CIOETsketch1.csproj.GenerateResource.Cache
