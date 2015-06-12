@@ -287,7 +287,33 @@
                             </Grid>
                         </TabItem>
                         <TabItem Header="Odontograma">
-                            <Grid Background="#FFE5E5E5"/>
+                            <Grid Background="#FFE5E5E5">
+                                <Label HorizontalAlignment="Left" Margin="415,167,0,0" VerticalAlignment="Top" Content="Context Menu">
+                                    <Label.ContextMenu>
+                                        <ContextMenu>
+                                            <MenuItem Header="Menu 1">
+                                                <MenuItem Header="Submenu 1"
+                                      IsChecked="True" />
+                                                <MenuItem Header="Submenu 1"
+                                      IsChecked="True"
+                                      IsEnabled="False" />
+                                                <MenuItem Header="Submenu 2" />
+                                                <MenuItem Header="Submenu 3"
+                                      IsEnabled="False" />
+                                            </MenuItem>
+                                            <MenuItem Header="Menu 2" />
+                                            <MenuItem Header="Menu 3"
+                                  IsChecked="True" />
+                                            <MenuItem Header="Menu 4"
+                                  IsChecked="True"
+                                  IsEnabled="False" />
+                                            <MenuItem Header="Menu 5" />
+                                            <MenuItem Header="Menu 6"
+                                  IsEnabled="False" />
+                                        </ContextMenu>
+                                    </Label.ContextMenu>
+                                </Label>
+                            </Grid>
                         </TabItem>
                         <TabItem Header="Placas" HorizontalAlignment="Left" Height="39" VerticalAlignment="Top" Width="108">
                             <Grid Background="#FFE5E5E5"/>
