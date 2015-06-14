@@ -1,0 +1,23 @@
+﻿<Window x:Class="CIOETsketch1.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Window1" Height="402.789" Width="657.37">
+    <Grid Background="#FFD7DCB3">
+        <Button x:Name="bdo1" Content="" HorizontalAlignment="Left" Margin="124,76,0,0" VerticalAlignment="Top" Width="24" Height="19">
+            <Button.ContextMenu>
+                <ContextMenu>
+                    <MenuItem Header="caries" Click="MenuItem_Click_1"></MenuItem>
+                    <MenuItem Header="sellante"  Click="MenuItem_Click"></MenuItem>
+                </ContextMenu>
+            </Button.ContextMenu>
+        
+        </Button>
+        <Button Content="" HorizontalAlignment="Left" Margin="124,50,0,0" VerticalAlignment="Top" Width="24" Height="19"/>
+        <Button Content="" HorizontalAlignment="Left" Margin="148,76,0,0" VerticalAlignment="Top" Width="24" Height="19"/>
+        <Button Content="" HorizontalAlignment="Left" Margin="99,76,0,0" VerticalAlignment="Top" Width="24" Height="19"/>
+        <Button Content="" HorizontalAlignment="Left" Margin="124,102,0,0" VerticalAlignment="Top" Width="24" Height="19"/>
+
+        
+
+    </Grid>
+</Window>

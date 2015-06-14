@@ -44,6 +44,12 @@ namespace CIOETsketch1
 
         }
 
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            Window1 odg = new Window1();
+            odg.Show();
+        }
+
         
     }
 }
