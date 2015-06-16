@@ -9,6 +9,7 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
+using System.Windows.Threading;
 using MahApps.Metro.Controls;
 
 namespace CIOETsketch1
@@ -18,22 +19,29 @@ namespace CIOETsketch1
 	/// </summary>
 	public partial class LogInWindow : MetroWindow
 	{
+        DispatcherTimer log = new DispatcherTimer();
+
 		public LogInWindow()
 		{
 			this.InitializeComponent();
-
+            log.Tick += new EventHandler(loginProcess_Tick);
+            log.Interval = new TimeSpan(0,0,5);
+            
 
             
 			
 			// Insert code required on object creation below this point.
 		}
 
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {   
+        private void loginProcess_Tick(object sender, EventArgs e)
+        {
+
+            log.Stop();
+            
             string u, p;
-          
-        
-            bool uv=false, pv=false;
+
+
+            bool uv = false, pv = false;
             u = tbuser.Text;
             p = tbpass.Password;
 
@@ -46,7 +54,7 @@ namespace CIOETsketch1
             {
                 pv = true;
             }
-            if(uv==true && pv==true)
+            if (uv == true && pv == true)
             {
                 uv = false; pv = false;
                 MainWindow m = new MainWindow();
@@ -56,13 +64,25 @@ namespace CIOETsketch1
             }
             else
             {
-                lblog.Content="Error: Usuario o Contraseña incorrecta";
+                lblog.Content = "Error: Usuario o Contraseña incorrecta";
                 tbuser.Focus();
                 tbuser.Clear();
                 tbpass.Clear();
-            
+
                 uv = false; pv = false;
             }
+
+            btLogin.Visibility = Visibility.Visible;
+            progressRingLogin.Visibility = Visibility.Hidden;
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+
+            btLogin.Visibility = Visibility.Hidden;
+            progressRingLogin.Visibility = Visibility.Visible;
+            log.Start();
+            
         }
 
         private void tbpass_GotFocus(object sender, System.Windows.RoutedEventArgs e)
