@@ -206,7 +206,7 @@
             </TabItem>
         </TabControl>
         <Controls:FlyoutsControl x:Name="FlyoutControl" Width="{Binding ActualWidth, ElementName=grid}" Margin="0,123,0,15">
-            <Controls:Flyout x:Name="registroPacientesFlyout" IsOpen="False" Position="Left" VerticalAlignment="Top" FontSize="24" FontWeight="Bold" Width="{Binding ActualWidth, ElementName=FlyoutControl}" Height="{Binding ActualHeight, ElementName=FlyoutControl}" Theme="Accent" Margin="0,0,0,20">
+            <Controls:Flyout x:Name="registroPacientesFlyout" IsOpen="false" Position="Left" VerticalAlignment="Top" FontSize="24" FontWeight="Bold" Width="{Binding ActualWidth, ElementName=FlyoutControl}" Height="{Binding ActualHeight, ElementName=FlyoutControl}" Theme="Accent" Margin="0,0,0,20">
                 <Grid x:Name="grid2" Margin="10,0" Height="521">
                     <TextBlock Margin="10,0,0,0" TextWrapping="Wrap" FontFamily="Segoe UI 8" FontSize="21.333" Height="48" VerticalAlignment="Top" HorizontalAlignment="Left" Width="306"><Run Language="es-ve" Text="Datos Generales"/></TextBlock>
                     <TextBox Controls:TextBoxHelper.Watermark="Cedula" Controls:TextBoxHelper.ClearTextButton="True" Margin="52,75,0,0" TextWrapping="Wrap"  HorizontalAlignment="Left" Width="194" Height="26" VerticalAlignment="Top"/>
@@ -271,7 +271,7 @@
                     </Button>
                 </Grid>
             </Controls:Flyout>
-            <Controls:Flyout x:Name="OrtodonciaFlyout" IsOpen="False" Position="Left" VerticalAlignment="Top" FontSize="24" FontWeight="Bold" Height="{Binding ActualHeight, ElementName=FlyoutControl}" Theme="Accent" Width="{Binding ActualWidth, ElementName=FlyoutControl}">
+            <Controls:Flyout x:Name="OrtodonciaFlyout" IsOpen="false" Position="Left" VerticalAlignment="Top" FontSize="24" FontWeight="Bold" Height="{Binding ActualHeight, ElementName=FlyoutControl}" Theme="Accent" Width="{Binding ActualWidth, ElementName=FlyoutControl}">
                 <Grid x:Name="grid3" Margin="0,0,-2,0" Width="{Binding Width, ElementName=FlyoutControl}">
                     <Controls:MetroAnimatedTabControl Margin="10,0,10,10">
                         <TabItem Header="Historial">
@@ -313,6 +313,8 @@
                                         </ContextMenu>
                                     </Label.ContextMenu>
                                 </Label>
+                                <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="100" Margin="475,193,0,0" VerticalAlignment="Top" Width="100"/>
+                                <Button Content="ver odontograma" HorizontalAlignment="Left" Margin="442,97,0,0" VerticalAlignment="Top" Width="133" Click="Button_Click_1"/>
                             </Grid>
                         </TabItem>
                         <TabItem Header="Placas" HorizontalAlignment="Left" Height="39" VerticalAlignment="Top" Width="108">
