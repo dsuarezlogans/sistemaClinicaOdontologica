@@ -19,20 +19,41 @@ namespace CIOETsketch1
     /// </summary>
     public partial class Window1 : Window
     {
+        public Rectangle btn_inv;
         public Window1()
         {
             InitializeComponent();
         }
 
-        private void MenuItem_Click(object sender, RoutedEventArgs e)
+        private void Rectangle_MouseLeftButtonDown(object sender, MouseButtonEventArgs e)
         {
-            bdo1.Background = Brushes.Aquamarine;
-
+            dienteodonto.Fill = new SolidColorBrush(System.Windows.Media.Colors.Purple);
         }
 
-        private void MenuItem_Click_1(object sender, RoutedEventArgs e)
+            private void MenuItem_Click(object sender, RoutedEventArgs e)
         {
-            bdo1.Background = Brushes.Red;
+          MenuItem ctm = (MenuItem)sender;
+           
+           if(ctm.Name=="cari")
+           {
+               btn_inv.Fill = new SolidColorBrush(System.Windows.Media.Colors.Purple);
+           }
+           else
+           {
+               if (ctm.Name == "sel")
+               {
+                   btn_inv.Fill = new SolidColorBrush(System.Windows.Media.Colors.Purple);
+               }
+
+           }
         }
+
+           private void whoinvoque(object sender, MouseButtonEventArgs e)
+            {
+                btn_inv = (Rectangle)sender;
+            }
+          
+
+   
     }
 }
