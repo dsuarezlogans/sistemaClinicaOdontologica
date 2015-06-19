@@ -4,11 +4,11 @@
         Title="Window1" Height="600.774" Width="1114.26">
     <Grid Background="#FFD7DCB3">
         <Image HorizontalAlignment="Left" Height="129" Margin="10,21,0,0" VerticalAlignment="Top" Width="1086" Source="Images/supdient.jpg"/>
-        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="15" Margin="32,160,0,0" Stroke="Black" VerticalAlignment="Top" Width="18"/>
-        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="15" Margin="32,175,0,0" Stroke="Black" VerticalAlignment="Top" Width="18"/>
-        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="15" Margin="51,175,0,0" Stroke="Black" VerticalAlignment="Top" Width="20"/>
-        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="15" Margin="11,175,0,0" Stroke="Black" VerticalAlignment="Top" Width="20"/>
-        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="15" Margin="32,190,0,0" Stroke="Black" VerticalAlignment="Top" Width="18"/>
+        <Rectangle x:Name="d1s" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="15" Margin="32,160,0,0" Stroke="Black" VerticalAlignment="Top" Width="18" MouseLeftButtonDown="Rectangle_MouseLeftButtonDown"/>
+        <Rectangle x:Name="d1c" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="15" Margin="32,175,0,0" Stroke="Black" VerticalAlignment="Top" Width="18" MouseLeftButtonDown="Rectangle_MouseLeftButtonDown"/>
+        <Rectangle x:Name="d1r" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="15" Margin="51,175,0,0" Stroke="Black" VerticalAlignment="Top" Width="20" MouseLeftButtonDown="Rectangle_MouseLeftButtonDown"/>
+        <Rectangle x:Name="d1l" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="15" Margin="11,175,0,0" Stroke="Black" VerticalAlignment="Top" Width="20" MouseLeftButtonDown="Rectangle_MouseLeftButtonDown"/>
+        <Rectangle x:Name="d1i" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="15" Margin="32,190,0,0" Stroke="Black" VerticalAlignment="Top" Width="18" MouseLeftButtonDown="Rectangle_MouseLeftButtonDown"/>
         <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="15" Margin="108,160,0,0" Stroke="Black" VerticalAlignment="Top" Width="20"/>
         <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="15" Margin="108,175,0,0" Stroke="Black" VerticalAlignment="Top" Width="20"/>
         <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="15" Margin="128,175,0,0" Stroke="Black" VerticalAlignment="Top" Width="20"/>
@@ -89,12 +89,12 @@
         <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="15" Margin="51,394,0,0" Stroke="Black" VerticalAlignment="Top" Width="20"/>
         <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="15" Margin="11,394,0,0" Stroke="Black" VerticalAlignment="Top" Width="20"/>
         <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="15" Margin="32,409,0,0" Stroke="Black" VerticalAlignment="Top" Width="18"/>
-        <Rectangle x:Name="dienteodonto" Fill="#FFFBFBFB"  HorizontalAlignment="Left" Height="15" Margin="108,379,0,0" Stroke="Black" VerticalAlignment="Top" Width="20">
+        <Rectangle  Fill="#FFFBFBFB"  HorizontalAlignment="Left" Height="15" Margin="108,379,0,0" Stroke="Black" VerticalAlignment="Top" Width="20" MouseLeftButtonDown="Rectangle_MouseLeftButtonDown">
             <Rectangle.ContextMenu>
                 <ContextMenu Name="opciones"  >
-                    <MenuItem Header="caries" Click="MenuItem_Click" Name="cari">  </MenuItem>
-                    <MenuItem Header="sellante" Name="sel"></MenuItem>
-                    <MenuItem Header="extracion" Name="ext"></MenuItem>
+                    <MenuItem Header="caries"  Name="cari" Click="cari_Click">  </MenuItem>
+                    <MenuItem Header="sellante" Name="sel" Click="sel_Click"></MenuItem>
+                    <MenuItem Header="extracion" Name="ext" Click="ext_Click"></MenuItem>
 
                 </ContextMenu>
             </Rectangle.ContextMenu>
@@ -104,7 +104,7 @@
         <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="15" Margin="128,394,0,0" Stroke="Black" VerticalAlignment="Top" Width="20"/>
         <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="15" Margin="88,394,0,0" Stroke="Black" VerticalAlignment="Top" Width="19"/>
         <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="15" Margin="108,409,0,0" Stroke="Black" VerticalAlignment="Top" Width="20"/>
-        <Rectangle x:Name="dienteodonto2" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="15" Margin="187,380,0,0" Stroke="Black" VerticalAlignment="Top" Width="20"/>
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="15" Margin="187,380,0,0" Stroke="Black" VerticalAlignment="Top" Width="20"/>
         <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="15" Margin="187,395,0,0" Stroke="Black" VerticalAlignment="Top" Width="20"/>
         <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="15" Margin="208,395,0,0" Stroke="Black" VerticalAlignment="Top" Width="20"/>
         <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="15" Margin="168,395,0,0" Stroke="Black" VerticalAlignment="Top" Width="18"/>

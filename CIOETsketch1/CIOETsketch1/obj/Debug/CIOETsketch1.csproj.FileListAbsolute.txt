@@ -296,5 +296,4 @@ C:\Users\RSMAPP\Source\Repos\sistemaClinicaOdontologica\CIOETsketch1\CIOETsketch
 C:\Users\RSMAPP\Source\Repos\sistemaClinicaOdontologica\CIOETsketch1\CIOETsketch1\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
 C:\Users\RSMAPP\Source\Repos\sistemaClinicaOdontologica\CIOETsketch1\CIOETsketch1\obj\Debug\CIOETsketch1.exe
 C:\Users\RSMAPP\Source\Repos\sistemaClinicaOdontologica\CIOETsketch1\CIOETsketch1\obj\Debug\CIOETsketch1.pdb
-C:\Users\JoanYanitA\Source\Repos\sistemaClinicaOdontologica\CIOETsketch1\CIOETsketch1\obj\Debug\Window1.baml
-C:\Users\JoanYanitA\Source\Repos\sistemaClinicaOdontologica\CIOETsketch1\CIOETsketch1\obj\Debug\Window1.g.cs
+C:\Users\RSMAPP\Source\Repos\sistemaClinicaOdontologica\CIOETsketch1\CIOETsketch1\obj\Debug\CIOETsketch1.csprojResolveAssemblyReference.cache
